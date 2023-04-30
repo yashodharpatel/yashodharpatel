@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yashodhar Patel</h1>
-<h3>Hello! I'm Yashodhar, a full stack developer from India. I am a second-year CS student, who work as a part-time software developer at Drona Pay.
+<h3>Hello! I'm Yashodhar, a full stack developer from India. I am a second-year CS student, who works as a part-time software developer at Drona Pay.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodharpatel&label=Profile%20views&color=0e75b6&style=flat" alt="yashodharpatel" /> </p>
