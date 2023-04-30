@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/yashodharpatel_" target="blank"><img src="https://img.shields.io/twitter/follow/yashodharpatel_?logo=twitter&style=for-the-badge" alt="yashodharpatel_" /></a> </p>
 
-- 👨‍💻 Connect with me [http://yashodharpatel.bio.link/](http://yashodharpatel.bio.link/)
+- 👨‍💻 Connect with me - [http://yashodharpatel.bio.link/](http://yashodharpatel.bio.link/)
 
 - 💬 Ask me about **React, Node.js, HTML, CSS, JavaScript, Bootstarp, Tailwind, Firebase, MongoDB**
 
-- 📫 How to reach me **patelyashodhar012@gmail.com**
+- 📫 Reach me at - **patelyashodhar012@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1Zq5ZjCSkb4oSL4ulJfRtovG_rDFBFAeY/view](https://drive.google.com/file/d/1Zq5ZjCSkb4oSL4ulJfRtovG_rDFBFAeY/view)
+- 📄 [Resume](https://drive.google.com/file/d/1Zq5ZjCSkb4oSL4ulJfRtovG_rDFBFAeY/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
