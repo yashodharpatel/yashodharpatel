@@ -1,6 +1,5 @@
-<h1>Hi 👋, I'm Yashodhar Patel</h1>
-<h3>Hello! I'm Yashodhar, a full stack developer from India. I am a third-year CS student, who works as a part-time software developer at Drona Pay.
-</h3>
+<h1>Hey 👋, I’m Yashodhar</h1>
+<h3>Experienced Full Stack Developer and Final Year Computer Engineering Student from Mumbai, India 🇮🇳. Passionate about crafting efficient, innovative web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodharpatel&label=Profile%20views&color=0e75b6&style=flat" alt="yashodharpatel" /> </p>
 
