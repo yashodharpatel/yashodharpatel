@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashodharpatel_" target="blank"><img src="https://img.shields.io/twitter/follow/yashodharpatel_?logo=twitter&style=for-the-badge" alt="yashodharpatel_" /></a> </p>
 
-- 📄 [Portfolio](https://yashodharpatel.vercel.app)
+- 🌐 [yashodharpatel.app](https://yashodharpatel.vercel.app)
 
 - 📄 [Resume](https://drive.google.com/file/d/1Zq5ZjCSkb4oSL4ulJfRtovG_rDFBFAeY/view)
 
