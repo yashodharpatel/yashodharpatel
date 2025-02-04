@@ -17,7 +17,7 @@ Beyond academics and work, I actively **participate in hackathons** to challenge
 ### 🛠️ Technical Skills  
 
 - **Languages**: Java, Python, JavaScript, TypeScript, C++, SQL  
-- **Web Development**: React.js, Next.js, Astro, Tailwind CSS, SASS, HTML, CSS  
+- **Web Development**: React.js, Next.js, Astro, Tailwind CSS, SASS
 - **Backend & Databases**: Node.js, Express.js, MongoDB, Redis, Firebase  
 - **Tools**: Postman, Git, GitHub, GitLab, Rollup, Vercel, APEX  
 - **Cloud & DevOps**: Oracle Cloud, Docker
