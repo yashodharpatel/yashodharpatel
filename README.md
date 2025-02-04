@@ -1,23 +1,49 @@
-<h1>Hey 👋, I’m Yashodhar Patel</h1>
-<h3>Experienced Full Stack Developer and Final Year Computer Engineering Student from Mumbai, India 🇮🇳.</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashodharpatel&label=Profile%20views&color=0e75b6&style=flat" alt="yashodharpatel" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Yashodhar+Patel" alt="Header Typing Animation" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/yashodharpatel_" target="blank"><img src="https://img.shields.io/twitter/follow/yashodharpatel_?logo=twitter&style=for-the-badge" alt="yashodharpatel_" /></a> </p>
+### 🧑‍💻 About Me
 
-- 🌐 [yashodharpatel.app](https://yashodharpatel.vercel.app)
+My name is **Yashodhar Patel**, and my journey into programming began with a simple curiosity that has since grown into a deep passion. I am from **India** and currently in my **final year of Computer Science Engineering** at the University of Mumbai.
 
-- 📄 [Resume](https://drive.google.com/file/d/1Zq5ZjCSkb4oSL4ulJfRtovG_rDFBFAeY/view)
+I’m currently an **Intern at Oracle**, where I automate cloud infrastructure processes using Python and Shell Scripting and work with Oracle Cloud Infrastructure (OCI). Previously, I gained valuable experience as a **Software Development Intern at Drona Pay**, contributing to real-time fraud protection systems. I also served as a **Maintainer at TCET Open Source**, where I honed my skills while working on impactful projects.
 
-- 👨‍💻 Connect with me - [yashodharpatel.bio.link](http://yashodharpatel.bio.link/)
+Beyond academics and work, I actively **participate in hackathons** to challenge myself and foster continuous growth. Having solved **300+ Data Structures and Algorithms problems**, I remain committed to continuous learning and making a meaningful impact in the tech industry.
 
-- 📫 Reach me at - **patelyashodhar012@gmail.com**
+📫 Feel free to reach me out patelyashodhar012@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠️ Technical Skills  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashodharpatel&show_icons=true&locale=en&layout=compact" alt="yashodharpatel" /></p>
+- **Languages**: Java, Python, JavaScript, TypeScript, C++, SQL  
+- **Web Development**: React.js, Next.js, Astro, Tailwind CSS, SASS, HTML, CSS  
+- **Backend & Databases**: Node.js, Express.js, MongoDB, Redis, Firebase  
+- **Tools**: Postman, Git, GitHub, GitLab, Rollup, Vercel, APEX  
+- **Cloud & DevOps**: Oracle Cloud, Docker
+- **Scripting**: Shell  
+- **Currently Learning**: Solidity, Blockchain, DevOps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashodharpatel&show_icons=true&locale=en" alt="yashodharpatel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashodharpatel&" alt="yashodharpatel" /></p>
+### 💻 Projects  
+
+| Project Name        | Description | Tech Stack | Status | More Info |
+|--------------------|-------------|------------|--------|-----------|
+| **FundForTrust**   | A blockchain-based crowdfunding platform ensuring transparency and security for donors and creators. | Solidity, Ethereum, MetaMask, Web3.js, Thirdweb, React, Tailwind CSS | In Development | [Know More](https://drive.google.com/file/d/1e8T6awd7yYmZnF4yR3y2y_l2oRKlJubJ/view?usp=sharing) |
+| **Authease**       | An open-source Node.js authentication library with modular components and seamless integration. | Node.js, Express.js, TypeScript, Next.js, Tailwind CSS, MongoDB, Redis, Rollup | In Development | [Know More](https://docs.google.com/document/d/18-8rOahuLzFEiHm6i_c9V5fHqA4sYOuEFaQlb3JAqyY/edit?usp=sharing) |
+| **Lingo Leap**     | A web app offering structured Hindi therapy exercises, gamified learning, and supervisor oversight. | Node.js, Express.js, Next.js, Tailwind CSS, MongoDB | Completed | [Know More](https://docs.google.com/document/d/1K-LTq3XryjIPmVbhVND0o27JOETyU58s100DRQWR0LU/edit?usp=sharing) |
+| **Codingpeer**     | A platform for developers to find coding partners, collaborate, and network globally. | React, Firebase, Bootstrap, SASS | Completed | [Know More](https://docs.google.com/document/d/1zLnrslIAHrNhGUnz19i4geDIjRlwXXubk9R3CR4d7cU/edit?usp=sharing) |
+| **Medishare**      | A community-driven platform for redistributing unused medicines to those in need. | React, Firebase, Bootstrap, SASS | Completed | [Know More](https://docs.google.com/document/d/1Rx2ty7P9X-XrZ9wUuoP-pXHtnz57gqR8usIACd9EBYI/edit?usp=sharing) |
+
+
+### 🔗 Important Links
+
+- Portfolio: [yashodharpatel.me](https://links.cdhiraj40.dev/)
+- Resume: [Click here!](https://shorturl.at/tA458)
+- Other socials: [yashodharpatel.bio.link](https://yashodharpatel.bio.link/)
+
+<div align="center">
+  <a href="mailto:patelyashodhar012@gmail.com">
+    <img src="https://img.shields.io/badge/-Let's%20Talk!-blueviolet?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
