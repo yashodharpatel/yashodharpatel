@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-My name is **Yashodhar Patel**, and my journey into programming began with a simple curiosity that has since grown into a deep passion. I am from **India** and currently in my **final year of Computer Science Engineering** at the University of Mumbai.
+My name is **Yashodhar Patel**, and my journey into programming began with a simple curiosity that has since grown into a deep passion. I am from **Mumbai, India 🇮🇳** and currently in my **final year of Computer Science Engineering** at the University of Mumbai.
 
 I’m currently an **Intern at Oracle**, where I automate cloud infrastructure processes using Python and Shell Scripting and work with Oracle Cloud Infrastructure (OCI). Previously, I gained valuable experience as a **Software Development Intern at Drona Pay**, contributing to real-time fraud protection systems. I also served as a **Maintainer at TCET Open Source**, where I honed my skills while working on impactful projects.
 
