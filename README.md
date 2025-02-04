@@ -19,7 +19,7 @@ Beyond academics and work, I actively **participate in hackathons** to challenge
 - **Languages**: Java, Python, JavaScript, TypeScript, C++, SQL  
 - **Web Development**: React.js, Next.js, Astro, Tailwind CSS, SASS
 - **Backend & Databases**: Node.js, Express.js, MongoDB, Redis, Firebase  
-- **Tools**: Postman, Git, GitHub, GitLab, Rollup, Vercel, APEX  
+- **Tools**: Postman, Git, GitHub, GitLab, Postman, Rollup, Vercel, APEX  
 - **Cloud & DevOps**: Oracle Cloud, Docker
 - **Scripting**: Shell  
 - **Currently Learning**: Solidity, Blockchain, DevOps
