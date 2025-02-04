@@ -38,8 +38,8 @@ Beyond academics and work, I actively **participate in hackathons** to challenge
 
 ### 🔗 Important Links
 
-- Portfolio: [yashodharpatel.me](https://links.cdhiraj40.dev/)
-- Resume: [Click here!](https://shorturl.at/tA458)
+- Portfolio: [yashodharpatel.me](https://yashodharpatel,me)
+- Resume: [Click here!](https://yashodharpate.me/Yashodhar_Patel_Resume)
 - Other socials: [yashodharpatel.bio.link](https://yashodharpatel.bio.link/)
 
 <div align="center">
